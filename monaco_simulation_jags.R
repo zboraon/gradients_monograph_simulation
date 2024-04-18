@@ -1,4 +1,4 @@
-# Inspired from https://lindeloev.github.io/mcp/
+# Inspired from https://lindeloev.github.io/mcp/ and https://www.niamhcahill.com/post/cptutorial/
 
 # Load necessary libraries
 library(mcp)
